@@ -61,7 +61,7 @@ public class MyXML
 		URL website = null;
 		try
 		{
-			website = new URL("http://mycxle.github.io/Minicraft-UE/data.xml");
+			website = new URL("https://mycxle.github.io/Minicraft-UE/data.xml");
 		}
 		catch (MalformedURLException e2)
 		{
