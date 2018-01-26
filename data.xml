@@ -1,0 +1,8 @@
+<plugins>
+    <release>1.0.0</release>
+    <plugin>
+        <name>Lenkyl Creeper Plugin</name>
+        <url>http://mycxle.github.io/Minicraft-UE/creeper.jar</url>
+        <save_name>creeper.java</save_name>
+    </plugin>
+</plugins>
