@@ -3,12 +3,12 @@
     <release>0.1.0</release>
     <plugin>
         <name>Ultimate Plugin</name>
-        <url>http://mycxle.github.io/Minicraft-UE/Ultimate-Plugin.jar</url>
+        <url>https://mycxle.github.io/Minicraft-UE/Ultimate-Plugin.jar</url>
         <save_name>Ultimate-Plugin.jar</save_name>
     </plugin>
      <plugin>
         <name>Creeper Plugin</name>
-        <url>http://mycxle.github.io/Minicraft-UE/Creeper-Plugin.jar</url>
+        <url>https://mycxle.github.io/Minicraft-UE/Creeper-Plugin.jar</url>
         <save_name>Creeper-Plugin.jar</save_name>
     </plugin>
 </plugins>
