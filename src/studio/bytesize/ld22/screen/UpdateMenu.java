@@ -24,7 +24,7 @@ public class UpdateMenu extends Menu
 			{
 			  try
 			{
-				Desktop.getDesktop().browse(new URI("http://gamejolt.com/games/minicraft-ultimate-edition/129004"));
+				Desktop.getDesktop().browse(new URI("https://github.com/mycxle/Minicraft-UE"));
 				System.exit(0);
 			}
 			catch (IOException e)
