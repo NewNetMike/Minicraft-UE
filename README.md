@@ -1,13 +1,6 @@
-# Minicraft: Ultimate Edition
-
-*Minicraft* was made by Markus Persson for the 22'nd Ludum Dare competition in December 2011.  
-*Minicraft: Ultimate Edition* is a mod by mycxle.
+# ☆ Minicraft: Ultimate Edition
 
 ![screenshot](http://ludumdare.com/compo/wp-content/compo2/87574/398-shot0.png "screenshot")
-
-## Download The Latest Build:
-* [AdFly Link (Click "Skip Ad" In Top Right Corner)](http://google.com)
-* [Direct Download (Via Google Drive)](http://google.com)
 
 ### Features A Plugin/Mod/Texture Loading System
 * **Let's you customize your Minicraft experience!**
@@ -46,5 +39,3 @@
 - [x] Brown Mushroom
 - [x] Red Mushroom Spore
 - [x] Brown Mushroom Spore
-
-*Send Feedback & Suggestions To:* CENSORED
